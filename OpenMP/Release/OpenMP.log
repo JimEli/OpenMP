@@ -1,0 +1,8 @@
+﻿  main.c
+main.c(11): warning C4101: 'j': unreferenced local variable
+  Generating code
+  6 of 8 functions (75.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenMP.vcxproj -> C:\Users\Jim\Documents\Visual Studio 2017\Projects\OpenMP\Release\OpenMP.exe
